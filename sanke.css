@@ -1,0 +1,8 @@
+body{
+    box-sizing: border-box;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}#canvas{
+    border: 15px solid green;
+}
